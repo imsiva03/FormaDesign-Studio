@@ -1,0 +1,27 @@
+/* [project]/src/app/anton_3e83bfeb.module.css [app-client] (css) */
+@font-face {
+  font-family: anton;
+  src: url("../media/anton_latin-s.p.0pan85mumqyf3.woff2") format("woff2");
+  font-display: swap;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: anton Fallback;
+  src: local(Arial);
+  ascent-override: 127.93%;
+  descent-override: 35.79%;
+  line-gap-override: 0.0%;
+  size-adjust: 91.94%;
+}
+
+.anton_3e83bfeb-module__U6aXca__className {
+  font-family: anton, anton Fallback;
+  font-weight: 400;
+}
+
+.anton_3e83bfeb-module__U6aXca__variable {
+  --font-anton: "anton", "anton Fallback";
+}
+
+/*# sourceMappingURL=src_app_anton_3e83bfeb_module_css_1igg3k2._.single.css.map*/

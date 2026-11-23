@@ -1,0 +1,14 @@
+{
+  "pages": {},
+  "app": {
+    "[project]/src/app/page": [
+      "static/media/anton_latin-s.p.0pan85mumqyf3.woff2",
+      "static/media/poppins_regular_latin-s.p.43zbiuwnnoiok.woff2",
+      "static/media/poppins_medium_latin-s.p.2o7m9ogm38dql.woff2",
+      "static/media/poppins_semibold_latin-s.p.3o_v2fun1jzxk.woff2",
+      "static/media/poppins_bold_latin-s.p.3bh2vc0w-r-ll.woff2"
+    ]
+  },
+  "appUsingSizeAdjust": true,
+  "pagesUsingSizeAdjust": false
+}
