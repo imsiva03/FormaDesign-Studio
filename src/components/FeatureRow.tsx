@@ -17,6 +17,7 @@ export default function FeatureRow() {
           </p>
         </div>
         <div className="space-y-5">
+          
           <TechMarquee tone="canvas" skills={["nextjs", "react", "typescript", "javascript", "html5", "css3"]} />
           <TechMarquee tone="canvas" reverse skills={["tailwindcss", "docker", "vercel", "git", "react", "nextjs"]} />
         </div>
