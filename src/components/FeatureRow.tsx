@@ -4,7 +4,7 @@ export default function FeatureRow() {
   return (
     <section aria-labelledby="skills-heading" className="relative bg-canvas py-14 overflow-hidden">
       <div className="max-w-7xl mx-auto">
-        
+
         <div className="text-center mb-10 px-6">
           <span className="inline-block text-sm font-semibold tracking-[0.2em] uppercase text-accent-ink mb-3">
             Our toolkit
@@ -16,7 +16,7 @@ export default function FeatureRow() {
           <p className="mt-4 text-ink/70 text-sm sm:text-base">
             Modern frameworks, thoughtful styling, and dependable deployment.
           </p>
-        </div>
+        </div>                                                            
         <div className="space-y-5">
           
           <TechMarquee tone="canvas" skills={["nextjs", "react", "typescript", "javascript", "html5", "css3"]} />
